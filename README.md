@@ -1,18 +1,21 @@
 <h1 align="center">Hello there 👋, I´m Ignacio,</h1>
 <h2 align="center"> and this is my github perfil</h2>
-Firstly: General Kenobi!
 
-Great, now I can move on.
-
-
-
-
-- 🔭 I’m currently working on enhance my github perfil in general. I started to learn a lot, and upload all the files so other people can see what I´m capable of.
-- 🌱 I’m currently studying a Superior Technician in Computer Systems (second year out of three)
-- 👯 I’m actively seeking to collaborate on a work environment that can magnify my experience. As a result, my efforts led me to secure a position of Software Engineer Jr. at NTT DATA.
-- 💬 Ask me about **C++, Java, Python or PL/SQL**
+>Firstly: General Kenobi!
+>
+>Great, now I can move on.
+----
 
 
+#### 🔭 I’m currently working on enhance my github perfil in general. I started to learn a lot, and upload all the files so other people can see what I´m capable of.
+
+#### 🌱 I’m currently studying a Superior Technician in Computer Systems (second year out of three)
+
+#### 👯 I’m actively seeking to collaborate on a work environment that can magnify my experience. As a result, my efforts led me to secure a position of Software Engineer Jr. at NTT DATA.
+
+#### 💬 Ask me about **C++, Java, Python or PL/SQL**
+
+----
 ###  How to reach me: 
 - You can check my Linkedin perfil. There's all the information I think you can need to get in touch with me. And there's also my CV's (in different languages).
 <p align="left">
