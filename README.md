@@ -7,7 +7,7 @@
 ----
 
 
-#### 🔭 I’m currently working on enhance my github perfil in general. I started to learn a lot, and upload all the files so other people can see what I´m capable of.
+#### 🔭 At present, I’m working on enhance my github profile in general. I started to learn a lot, and upload all the files so other people can see what I´m capable of.
 
 #### 🌱 I’m currently studying a Superior Technician in Computer Systems (second year out of three)
 
