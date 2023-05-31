@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I´m Ignacio,</h1>
-<h2 align="center"> and this is my github perfil</h2>
+<h2 align="center"> and this is my github profile</h2>
 
 >Firstly: General Kenobi!
 >
