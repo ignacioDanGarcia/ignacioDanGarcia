@@ -17,7 +17,7 @@
 
 ----
 ###  How to reach me: 
-- You can check my Linkedin perfil. There's all the information I think you can need to get in touch with me. And there's also my CV's (in different languages).
+- You can check my Linkedin profile. There's all the information I think you can need to get in touch with me. And there's also my CV's (in different languages).
 <p align="left">
 <a href="https://www.linkedin.com/in/ignacio-daniel-garc%C3%ADa-9a75a222a/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ignacio-Daniel-Garcia" height="30" width="40" /></a>
 </p>
